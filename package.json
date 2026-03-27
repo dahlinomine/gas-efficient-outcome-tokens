@@ -1,0 +1,10 @@
+{
+  "name": "gas-efficient-outcome-tokens",
+  "version": "0.1.0",
+  "description": "Ultra-optimized ERC20 implementation for market outcome tokens",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
